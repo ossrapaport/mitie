@@ -5,7 +5,7 @@
 #include <cstdlib>
 #include <string>
 
-#include <mitie/named_entity_extractor.h>
+//#include <mitie/named_entity_extractor.h>
 #include <mitie/conll_tokenizer.h>
 
 #include "entity_extractor.h"
